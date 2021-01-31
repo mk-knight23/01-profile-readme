@@ -4,6 +4,14 @@
     <img src="https://gidigi.com/cdn/love.gif">
 </p>
 
+<p > 
+ 
+ <img src="https://badges.pufler.dev/visits/mk-knight23/mk-knight23"/>
+ <img src="https://badges.pufler.dev/years/mk-knight23"/>
+ <img src="https://badges.pufler.dev/repos/mk-knight23"/>
+ <img src="https://badges.pufler.dev/commits/monthly/mk-knight23"/>
+</p>
+
 - 💻 I'm a Student And Developer 
 - 🌱 I’m currently learning everything 
 - 👯 I’m looking to collaborate with other content creators
