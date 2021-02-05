@@ -46,7 +46,7 @@
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mk-knight23&theme=tokyonight" alt="mk-knight23" />
  </p>
 
-<img align="center" src="https://github.com/mk-knight23/mk-knight23/blob/master/mk7.jpg"></img>
+<img align="center" src="https://github.com/mk-knight23/mk-knight23/blob/master/mk71.jpg"></img>
 
 [twitter]: https://twitter.com/mk_knight_23
 [instagram]: https://instagram.com/kazi_musharraf_01
