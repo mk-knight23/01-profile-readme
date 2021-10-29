@@ -35,6 +35,10 @@
 <br>
 <br>
 <br>
+### GitHub Trophies
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=mk-knight23&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 ### 📕 Latest Blog Posts :
 
