@@ -1,4 +1,4 @@
-### 📕 Hi <img src="./wave.gif" width=50 >, I'm  KAZI 
+<h1>Hi <img src="Data/wave.gif" width=50 >, I'm KAZI</h1>
 
 <p align='center'>
     <img src="https://gidigi.com/cdn/love.gif">
