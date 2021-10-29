@@ -22,19 +22,10 @@
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=mk-knight23)
 
-### 📕 Latest ALL GITHUB REPOS :
-
-- [MK-ALL-REPOS](https://github.com/mk-knight23/MK-ALL-REPOS)
-
-
 ### 📕 GitHub Trophies
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=mk-knight23&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
-
-### 📕 Latest Blog Posts :
-
-- [MK-KNIGHT Blogs's ](https://dev.to/mkknight23)
 
 <p align="center"><img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mk-knight23&show_icons=true&theme=tokyonight" /></p>
 
