@@ -36,23 +36,7 @@
 [linkedin]: https://linkedin.com/in/mk-knight-1373271b8
 https://amzon-cl.web.app/
 
-<!--
-**99anjali/99anjali** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
--->
-
-<img src="cover photo/cover.jpeg" alt="Coder GIF" width="100%">
-<h2 align="left"> Hi there! <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"><br> </h2>
-  <p>I'm <b>Anjali Sahu</b>, Second year student  at Indian Institute of Information Technology, Allahabad (IIIT-A) ✨. I am  learning  Web Development  and loves to explore other domains  as well.
-  </p>
-<br>
-
-<h2 align="left">🔗 Connect With Me</h2>
-<pre>
-
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/anjali-sahu-1439ba207)      [![Facebook Badge](https://img.shields.io/badge/Facebook-3b5998?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100058692290721)      [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/AnjaliS10154712?t=LrOO-Vy4VLZLXyozBKNr9w&s=08)      [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/sahu_anjali99/)
-    
-</pre> 
 <h2 align="left">🛠 Technologies and Tools I use:</h2>
 <pre align="left">
   <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>    <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>   <a href="https://www.cplusplus.com/" target="_blank"> <img src="https://xaviergreer.com/static/images/cplus.png" alt="c++" width="40" height="40"/> </a>    <a href="https://www.java.com/en/" target="_blank"> <img src="https://seeklogo.com/images/J/java-logo-7F8B35BAB3-seeklogo.com.png" alt="java" width="40" height="40"/> </a>    <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
@@ -60,17 +44,12 @@ https://amzon-cl.web.app/
 </pre>
 
 
-
-
-
-
-
 <br>
 
 ### ♾️  Github Stats:
 <br>
 <p align="center">
-  <a href="https://github.com/99anjali"><span>
+  <a href="https://github.com/mk-knight23"><span>
     <img height="48%" src="https://github-readme-stats.vercel.app/api?username=mk-knight23&count_private=true&show_icons=true&theme=radical&&include_all_commits=true"/>
     <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=mk-knight23&theme=radical" />
     <!--(<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=99anjali&hide=html,css,javascript,scss&layout=compact&langs_count=8&theme=radical"/>)-->
