@@ -20,10 +20,6 @@
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=mk-knight23)
 
-### 📕 GitHub Trophies
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=mk-knight23&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-
 
 <p align="center"><img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mk-knight23&show_icons=true&theme=tokyonight" /></p>
 
@@ -34,7 +30,6 @@
 [twitter]: https://twitter.com/mk_knight_23
 [instagram]: https://instagram.com/kazi_musharraf_01
 [linkedin]: https://linkedin.com/in/mk-knight-1373271b8
-https://amzon-cl.web.app/
 
 
 <h2 align="left">🛠 Technologies and Tools I use:</h2>
