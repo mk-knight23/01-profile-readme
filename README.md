@@ -1,7 +1,7 @@
 <h1>Hi <img src="./wave.gif" width=50 >, I'm KAZI</h1>
 
 <p align='center'>
-    <img src="https://gidigi.com/cdn/lov1e.gif">
+    <img src="https://gidigi.com/cdn/love.gif">
 </p>
 <p > 
  <img src="https://badges.pufler.dev/visits/mk-knight23/mk-knight23"/>
