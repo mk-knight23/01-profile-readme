@@ -13,7 +13,7 @@
 - 💻 I'm a Student And Developer
 - 🌱 I’m Currently learning New TECH STUFF
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2021 Goals: Contribute more to Open Source projects 
+- 🥅 2023 Goals: Contribute more to Open Source projects 
 - ⚡ Fun fact: I love to Watch Movies And Series...
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=mk-knight23)
