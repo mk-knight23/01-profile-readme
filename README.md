@@ -1,4 +1,4 @@
-<h1>Hi <img src="./wave.gif" width=50 >, I'm KAZI</h1>
+<h1>Hi <img src="./wave.gif" width=50 >, I'm KAZI MUSHARRAF </h1>
 
 <p align='center'>
     <img src="https://gidigi.com/cdn/love.gif">
@@ -10,10 +10,10 @@
  <img src="https://badges.pufler.dev/commits/monthly/mk-knight23"/>
 </p>
 
-- 💻 I'm a Student And Developer
+- 💻 I'm a Developer with 4 Years of experience in Full Stack Development;
 - 🌱 I’m Currently learning New TECH STUFF And AI
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2023 Goals: Contribute more to Open Source projects 
+- 🥅 2024 Goals: Climb The Corporate Ladder ASAP.
 - ⚡ Fun fact: I love to Watch Movies And Series...
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=mk-knight23)
