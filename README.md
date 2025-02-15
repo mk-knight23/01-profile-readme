@@ -10,10 +10,10 @@
  <img src="https://badges.pufler.dev/commits/monthly/mk-knight23"/>
 </p>
 
-- 💻 I'm a Developer with 4 Years of experience in Full Stack Development;
+- 💻 I'm a Developer with 5 Years of experience in Full Stack Development, AI Agency  Building;
 - 🌱 I’m Currently learning New TECH STUFF And AI
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2024 Goals: Climb The Corporate Ladder ASAP.
+- 🥅 2025 Goals: Build AI Agency.
 - ⚡ Fun fact: I love to Watch Movies And Series...
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=mk-knight23)
