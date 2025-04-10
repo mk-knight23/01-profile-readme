@@ -112,7 +112,7 @@
 <p align="center">
   <a href="https://github.com/mk-knight23"><span>
     <img height="48%" src="https://github-readme-stats.vercel.app/api?username=mk-knight23&count_private=true&show_icons=true&theme=radical&&include_all_commits=true"/>
-    <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=mk-knight23&theme=radical" />
+<!--     <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=mk-knight23&theme=radical" /> -->
     <!--(<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=99anjali&hide=html,css,javascript,scss&layout=compact&langs_count=8&theme=radical"/>)-->
     <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mk-knight23&theme=dracula" />
    <br />
@@ -134,9 +134,5 @@
 
 
 <br>  
-
-### Important Repositories
-![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=mk-knight23&repo=mk3&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)
-![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=mk-knight23&repo=clock&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)
 
 
