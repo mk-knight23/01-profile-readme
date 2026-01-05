@@ -94,7 +94,7 @@
 - 💻 I'm a Developer with 6 Years of experience in Full Stack Development, React JS , AI Agency  Building 
 - 🌱 I’m Currently learning New TECH STUFF And AI
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2025 Goals: Build AI Agency.
+- 🥅 2026 Goals: Build AI VIBE Coding Apps
 - ⚡ Fun fact: I love to Watch Movies And Series...
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=mk-knight23)
