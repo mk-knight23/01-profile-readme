@@ -1,50 +1,63 @@
-# Hi <img src="./wave.gif" width="30" />, I'm KAZI MUSHARRAF
+# 01-profile-readme
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;Web+and+Mobile+Master;AI+Automation+Engineer;Always+Learning)](https://git.io/typing-svg)
+A modern, accessible developer profile template with glassmorphism design, dark/light mode, and GitHub stats integration.
+
+![Preview](./portfolio-ss.png)
+
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/mk-knight23/01-profile-readme)
+[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/mk-knight23/01-profile-readme)
+
+## ✨ Features
+
+- 🎨 **Glassmorphism Design** - Modern frosted glass UI with smooth animations
+- 🌓 **Dark/Light Mode** - System preference detection with manual toggle
+- ♿ **Accessible** - ARIA labels, keyboard navigation, skip links, reduced motion
+- 📱 **Responsive** - Mobile-first design that works on all devices
+- 🔍 **SEO Optimized** - Meta tags, OpenGraph, Twitter Cards, JSON-LD schema
+- ⚡ **Fast** - Minimal dependencies, lazy loading, optimized assets
+- 📊 **GitHub Integration** - Dynamic stats, languages, and contribution graph
+- 🍴 **Template Ready** - Easy to fork and customize
+
+## 🚀 Quick Start
+
+```bash
+# Clone the repository
+git clone https://github.com/mk-knight23/01-profile-readme.git
+
+# Navigate to project
+cd 01-profile-readme
+
+# Install dependencies
+npm install
+
+# Start development server
+npm run dev
+```
+
+## 📖 Documentation
+
+- [Getting Started](./GETTING_STARTED.md) - Setup and customization
+- [Features](./FEATURES.md) - Detailed feature list
+- [Stack](./STACK.md) - Technology breakdown
+- [Deploy](./DEPLOY.md) - Deployment guides
 
 ## 🛠️ Tech Stack
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,vue,python,ts,aws,cs,django,tailwind,mui,graphql,mongodb,nodejs,github,git,flutter&perline=8" alt="My Skills" />
-  </a>
-</p>
+| Technology | Purpose |
+|------------|---------|
+| HTML5 | Semantic structure |
+| CSS3 | Glassmorphism, animations |
+| JavaScript | Theme toggle, interactions |
+| Vite | Build tool & dev server |
 
-## 📊 GitHub Stats
+## 📝 License
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mk-knight23&show_icons=true&theme=dracula&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mk-knight23&layout=compact&theme=dracula&hide_border=true" alt="Top Languages" />
-</p>
+MIT License - see [LICENSE](./LICENSE)
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mk-knight23&theme=dracula" alt="Profile Details" />
-</p>
+## 🙏 Credits
 
-## 🏆 Trophies
+Created by [Kazi Musharraf](https://github.com/mk-knight23)
 
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=mk-knight23&column=7&theme=onedark&no-frame=true&no-bg=true" alt="Trophies" />
-  </a>
-</p>
+---
 
-## ⚡ About Me
-
-- 💻 **Experience**: 6+ Years in Full Stack Development, React JS, AI Agency Building
-- 🌱 **Learning**: Advanced AI Agents, Large Language Models
-- 🥅 **2026 Goals**: Build AI VIBE Coding Apps & SaaS Products
-- ⚡ **Fun fact**: I love watching sci-fi movies and series
-
-## 🔗 Connect
-
-<p align="left">
-  <a href="https://twitter.com/mk_knight_23" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mk_knight_23" height="30" width="40" /></a>
-  <a href="https://instagram.com/kazi_musharraf_01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kazi_musharraf_01" height="30" width="40" /></a>
-  <a href="https://linkedin.com/in/mk-knight-1373271b8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mk-knight-1373271b8" height="30" width="40" /></a>
-</p>
-
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=mk-knight23.mk-knight23)
-  
-
-
+⭐ Star this repo if you found it helpful!

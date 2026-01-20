@@ -1,26 +1,39 @@
 {
   "name": "01-profile-readme",
-  "version": "1.0.0",
-  "description": "[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;Web+and+Mobile+Master;AI+Automation+Engineer;Always+Learning)](https://git.io/typing-svg)",
-  "main": "index.js",
+  "version": "2.0.0",
+  "description": "A modern, accessible developer profile template with glassmorphism design, dark/light mode, and GitHub stats integration.",
+  "main": "index.html",
+  "type": "module",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
-    "preview": "vite preview"
+    "preview": "vite preview",
+    "lint": "eslint . --ext .js",
+    "lint:fix": "eslint . --ext .js --fix"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/mk-knight23/01-profile-readme.git"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "type": "commonjs",
+  "keywords": [
+    "profile",
+    "portfolio",
+    "template",
+    "github-readme",
+    "glassmorphism",
+    "developer",
+    "dark-mode",
+    "responsive",
+    "accessible"
+  ],
+  "author": "Kazi Musharraf <github.com/mk-knight23>",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/mk-knight23/01-profile-readme/issues"
   },
-  "homepage": "https://github.com/mk-knight23/01-profile-readme#readme",
+  "homepage": "https://01-profile-readme.vercel.app",
   "devDependencies": {
+    "eslint": "^9.0.0",
     "vite": "^7.3.1"
   }
 }
