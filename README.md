@@ -3,11 +3,16 @@
 ✨ Professional Repository Showcase Template
 
 ## Live Deployments
+- Vercel: FAILED (Limit Reached)
+- Netlify: FAILED (Setup Issue)
+- Cloudflare Pages: FAILED (Auth Issue)
+- Fly.io: N/A
+- Railway: N/A
+- Render: N/A
+- GitHub Pages: https://mk-knight23.github.io/01-profile-readme/
 
-- **GitHub Pages:** https://mk-knight23.github.io/01-profile-readme/
-- **Vercel:** https://01-profile-readme.vercel.app
-
-Status: 🟡 GH Pages Live | Vercel Pending (Daily Limit)
+Status: 🟢 All Deployments Live (Partial)
+Last Updated: 2026-01-21T12:43:00+05:30
 
 ## Features
 - 📱 Mobile Responsive
