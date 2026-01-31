@@ -943,6 +943,15 @@ main {
     .impact-grid {
         grid-template-columns: 1fr;
     }
+
+    .decisions-grid {
+        grid-template-columns: 1fr;
+    }
+
+    .shortcuts-content {
+        margin: 10vh 1rem;
+        max-width: 100%;
+    }
 }
 
 @media (max-width: 600px) {
@@ -965,4 +974,293 @@ main {
     .tech-list {
         flex-direction: column;
     }
+}
+
+/* vNext: Scroll progress indicator */
+.scroll-progress {
+    position: fixed;
+    top: 0;
+    left: 0;
+    height: 2px;
+    background: var(--ink);
+    width: 0%;
+    z-index: 1001;
+    transition: width 0.1s ease-out;
+}
+
+/* vNext: Print optimization */
+@media print {
+    .nav,
+    .footer,
+    .scroll-indicator,
+    .scroll-progress,
+    .hero-actions,
+    .project-links,
+    .view-all-link {
+        display: none !important;
+    }
+
+    body {
+        background: white;
+        color: black;
+    }
+
+    body::before {
+        display: none;
+    }
+
+    .hero {
+        min-height: auto;
+        padding: 2rem 0;
+    }
+
+    .section {
+        page-break-inside: avoid;
+        padding: 2rem 0;
+    }
+
+    .project-card,
+    .product-card,
+    .impact-card,
+    .skill-category {
+        page-break-inside: avoid;
+        break-inside: avoid;
+    }
+
+    a[href]::after {
+        content: " (" attr(href) ")";
+        font-size: 0.8em;
+        color: var(--gray);
+    }
+
+    a[href^="#"]::after {
+        content: "";
+    }
+}
+
+/* vNext: Project Filters */
+.project-filters {
+    display: flex;
+    gap: 0.5rem;
+    margin-bottom: 2rem;
+    flex-wrap: wrap;
+}
+
+.filter-btn {
+    padding: 0.5rem 1rem;
+    font-size: 0.75rem;
+    font-weight: 500;
+    letter-spacing: 0.05em;
+    text-transform: uppercase;
+    border: 1px solid var(--border);
+    background: var(--paper);
+    color: var(--gray);
+    cursor: pointer;
+    transition: all var(--transition);
+    font-family: var(--font-mono);
+}
+
+.filter-btn:hover {
+    border-color: var(--ink);
+    color: var(--ink);
+}
+
+.filter-btn.active {
+    background: var(--ink);
+    color: var(--paper);
+    border-color: var(--ink);
+}
+
+.project-card.hidden {
+    display: none;
+}
+
+/* vNext: Design Decisions Section */
+.decisions-grid {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 2rem;
+}
+
+.decision-card {
+    padding: 2rem;
+    background: var(--paper);
+    border: 1px solid var(--border);
+    transition: border-color var(--transition);
+}
+
+.decision-card:hover {
+    border-color: var(--ink);
+}
+
+.decision-header {
+    margin-bottom: 1.25rem;
+}
+
+.decision-topic {
+    display: inline-block;
+    padding: 0.25rem 0.6rem;
+    background: var(--off-white);
+    font-size: 0.7rem;
+    font-weight: 500;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+    color: var(--gray);
+    margin-bottom: 0.75rem;
+}
+
+.decision-title {
+    font-family: var(--font-serif);
+    font-size: 1.1rem;
+    font-weight: 400;
+    font-style: italic;
+    color: var(--ink);
+}
+
+.decision-reason {
+    color: var(--gray);
+    font-size: 0.9rem;
+    line-height: 1.7;
+    margin-bottom: 1rem;
+}
+
+.decision-tradeoff {
+    padding-top: 1rem;
+    border-top: 1px solid var(--border);
+    font-size: 0.85rem;
+    color: var(--light-gray);
+    line-height: 1.6;
+}
+
+.tradeoff-label {
+    font-weight: 500;
+    color: var(--ink);
+}
+
+/* vNext: Keyboard shortcuts Modal */
+.footer-hint {
+    margin-top: 0.75rem;
+    font-size: 0.75rem;
+    color: var(--light-gray);
+}
+
+.branding {
+    margin-top: 0.5rem;
+    font-size: 0.7rem;
+    font-family: var(--font-mono);
+    letter-spacing: 0.1em;
+    color: var(--light-gray);
+    text-transform: uppercase;
+}
+
+.branding .vibe-text {
+    font-weight: 600;
+    color: var(--ink);
+}
+
+.footer-hint kbd {
+    padding: 0.1em 0.4em;
+    background: var(--off-white);
+    border: 1px solid var(--border);
+    border-radius: 3px;
+    font-family: var(--font-mono);
+    font-size: 0.9em;
+}
+
+.shortcuts-modal {
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    z-index: 2000;
+    display: none;
+}
+
+.shortcuts-modal.active {
+    display: block;
+}
+
+.shortcuts-overlay {
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background: rgba(0, 0, 0, 0.5);
+    backdrop-filter: blur(4px);
+}
+
+.shortcuts-content {
+    position: relative;
+    max-width: 400px;
+    margin: 15vh auto;
+    background: var(--paper);
+    border: 1px solid var(--border-dark);
+    box-shadow: 0 20px 60px rgba(0, 0, 0, 0.15);
+}
+
+.shortcuts-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 1.5rem;
+    border-bottom: 1px solid var(--border);
+}
+
+.shortcuts-header h2 {
+    font-family: var(--font-serif);
+    font-size: 1.1rem;
+    font-weight: 400;
+    font-style: italic;
+    color: var(--ink);
+}
+
+.shortcuts-close {
+    background: none;
+    border: none;
+    cursor: pointer;
+    padding: 0.25rem;
+    color: var(--gray);
+    transition: color var(--transition);
+}
+
+.shortcuts-close:hover {
+    color: var(--ink);
+}
+
+.shortcuts-list {
+    padding: 1.5rem;
+}
+
+.shortcut-item {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0.75rem 0;
+    border-bottom: 1px solid var(--border);
+}
+
+.shortcut-item:last-child {
+    border-bottom: none;
+}
+
+.shortcut-key kbd {
+    padding: 0.2em 0.5em;
+    background: var(--off-white);
+    border: 1px solid var(--border);
+    border-radius: 3px;
+    font-family: var(--font-mono);
+    font-size: 0.85rem;
+    color: var(--ink);
+}
+
+.shortcut-key {
+    display: flex;
+    gap: 0.25rem;
+}
+
+.shortcut-desc {
+    font-size: 0.85rem;
+    color: var(--gray);
 }
